@@ -2,10 +2,23 @@
 
 > 2016-2 'Code Image Expression' Final Project
 
+
+### Requirements
+
 * processing 3.x
 
-> left click - go forward
+### How to play
 
-> clicking stain - removes it
+* Left click - go forward
 
-<strong> USE HEADPHONE FOR BETTER EXPERIENCE </strong>
+* clicking stain - removes it
+
+* <strong> USE HEADPHONE FOR BETTER EXPERIENCE </strong>
+
+### Concept and story
+
+You will explore memories of your own, which was painful and full of regrets.
+
+As you clear the memories--stains--, the space become cleaner, clearer.
+
+Finally, there is nothing in your space.
