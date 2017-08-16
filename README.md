@@ -2,7 +2,7 @@
 
 > 2016-2 'Code Image Expression' Final Project
 
-
+[![vid](http://img.youtube.com/vi/JxFVIMvNLRM/0.jpg)](https://youtu.be/JxFVIMvNLRM)
 ### Requirements
 
 * processing 3.x
